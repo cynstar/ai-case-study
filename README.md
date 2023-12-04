@@ -4,11 +4,6 @@
 
 Well Dot, Inc. - [www.well.co](https://www.well.co)
 
-* When was the company incorporated?
-* Who are the founders of the company?
-* How did the idea for the company (or project) come about?
-* How is the company funded? How much funding have they received?
-
 Well Dot, Inc. "Well", based in Chapel Hill, NC, was founded in January 2019 by Gary Loveman, former CEO of Caesars Entertainment Corp., and David Werry, who had a background in healthcare investment [^1] The idea for the company culminated from Loveman's experience in  developing analytics within the gambling industry that was used to influence customer behavior. [^2] According to one of Well's blog entries, Loveman was interested in the fact that his hospitality employees were adept at identifying actions that steered customers towards outcomes favorable to the company yet could not use the skill very well when applying it towards improving their own health. He became focused on coming up with and testing techniques such as providing on-site clinics that would encourage his employees to actively participate in actions beneficial to their healthcare.[^3]
 
 Loveman further explored the idea in later ventures including as Executive Vice President of Aetna. While in that position, he recruited David Werry who worked together with him *to help individuals understand their health potential and take actions toward achieving it.* [^4] Aetna was eventually purchased by CVS, prompting Loveman and Werry to part ways from their employer and form their own company which would focus on technology that incentivized consumers to take care of their health needs.
@@ -17,12 +12,7 @@ In 2019 the newly formed company, Well, received $25 million seed funding from i
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?  
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-Well wants to retool the healthcare industry from today's reactive, medical-condition or illness-focused approach towards a consumer first approach that incentivizing sustainable and holistic well-being across a lifetime. Well describes their objective as follows:
+Well wants to retool the healthcare industry from today's reactive, medical-condition or illness-focused approach towards a consumer first approach that incentivizing sustainable and holistic well-being across a lifetime. Well describes their objective as follows [^6]:
 
 > Our purpose is to improve health through compelling, frequent engagement. We work with users to build a relationship based on their individual health history, challenges and desires. With our AI Health Engine, clinically-driven content, and Well Guides, we offer a persistent presence in their lives that moves them step-by-step towards their own own \[sic\]  goals and overall health improvement. Ours is a high-touch, but low-pressure habit-forming approach that uses proven consumer engagement tactics and incentives to make members successful in advancing their health.
 
@@ -38,17 +28,13 @@ The scope is limited to:
 - users that can afford to spend time on the tool;
 - users healthy enough to maintain ongoing engagement with the app;
 
-	The tool may provide resources and guidelines for wellbeing however it does not address a key issue that would remain a roadblock towards attaining their vision \- affordability. This is an unsurmountable roadblock for many Americans even if they were powerusers of the application.
+The tool may provide resources and guidelines for wellbeing however it does not address a key issue that would remain a roadblock towards attaining their vision \- affordability. This is an unsurmountable roadblock for many Americans even if they were powerusers of the application.
 
 Well's offering is geared towards changing the American marketplace rather than competing within it's context. Being first gives them a window to attract a signifcant amount of customers and promote their vision without combatting competition. Well's leadership is adept at obtaining funding which may not be possible for much smaller less networked entrepeneurs and startups. They may be able to remain strongly competitive even if heavyweight corporations with a deep well of money enter the marketplace if they can continue on a path of rapid customer adoption and tool development.
 
 The company's tool is powered by a proprietary algorithm that uses "clinical interventions and guided experiences data" to provides tailored healthcare support to their members. [^6] Based on their job roles qualification requirements for Software Engineers, Data Engineers and Senior Data Scientist [^7] that mention Python, Haskell programming language; data processing pipelines, and modern cloud platforms, their AI uses large language modeling, unsupervised learning, and deep learning.
 
 ## Landscape
-
-* What field is the company in?
-* * What have been the major trends and innovations of this field over the last 10 years?
-* What are the other major companies in this field?
 
 The healthcare industry is experiencing major tranformative innovation across many areas due to its mutualistic relationship with technological advancements such as AI, 3D printing, gene editing and virtual reality. [^8] While Well promotes lofty goals with its vision of change in the American healthcare approach; Well's tool could be categorized under telehealth and is closest aligned with virtual assistant technology given the caveat that Well's application focuses on lifelong preventative measures and incentivization.
 
@@ -61,8 +47,8 @@ Recent major trends related to virtual assistance in healthcare are:
 Although unique in scope, Well's application shares commonalities and overlap with tools from other companies in the field working on a similar vein of virtual assistance technology. [Babylon Health](https://www.babylonhealth.com/en-us) is an early contender in evangelizing proactive healthcare.
 
 
-LEFT OFF HERE
-LEFT OFF HERE
+**LEFT OFF HERE**
+**LEFT OFF HERE**
 
 
 [Buoy Health: Check Symptoms & Find the Right Care](https://www.buoyhealth.com/)

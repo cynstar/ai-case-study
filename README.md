@@ -1,4 +1,4 @@
-# AI Focused Case Study of Well Dot, Inc.
+# AI-focused Case Study of Well Dot, Inc.
 
 ## Overview and Origin
 
@@ -40,7 +40,9 @@ The healthcare industry is experiencing major tranformative innovation across ma
 
 Recent major trends related to virtual assistance in healthcare are:
 
-- Chatbot technology is being used to interact and provide more accurate medical information to patients thereby broadening health care access for patients that may not otherwise be reachable due to location, medical illness, cost, or other factors. [^9]
+- Chatbot technology being used to interact and provide more accurate medical information to patients thereby broadening health care access for patients that may not otherwise be reachable due to location, medical illness, cost, or other factors. [^9]
+
+![image source: [10 chatbot trends that will transform your business in 2023 | Engati](https://www.engati.com/blog/chatbot-industry-trends)](https://assets-global.website-files.com/5ef788f07804fb7d78a4127a/6082dfbc48e16b2492049ca2_wodvXP1qcbqUWQEn2jYThXFzKeWlf9NCZoVN81IK2RE4b-hdpdIOyDZFNOzvUPlvx_xEveCgMIGungaKo-0nv6WN7Ts_Dgi59XdxkvduM_wo78D6q05Bm_8XFjm8MWrFkMbV9L4O.png)
 
 - Continual advancement in AI natural language processing, data processing, and machine learning is prompting rapid improvement in information provided to patients and fuels the chatbot technology. It has improved communication and information discernment among healthcare practitioners for a more holistic big picture approach to care. [^9]
 

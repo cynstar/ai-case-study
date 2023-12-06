@@ -1,4 +1,4 @@
-# AI-focused Case Study of Well Dot, Inc.
+# Case Study of Well Dot, Inc.
 
 ## Overview and Origin
 
@@ -6,104 +6,64 @@
 
 Loveman further explored the idea in later ventures including as Executive Vice President of Aetna. While in that position, he recruited David Werry who worked together with him *to help individuals understand their health potential and take actions toward achieving it.* [^4] Aetna was eventually purchased by CVS, prompting Loveman and Werry to part ways from their employer and form their own company which would focus on technology that incentivized consumers to take care of their health needs.
 
-In 2019 the newly formed company, Well, received $25 million seed funding from investors including from General Catalyst, John Doerr, Mosaic Health Solutions and Hellman & Friedman partners. [^4] They entered in agreement with North Carolina to build their headquarters in Chapel Hill, Orange County and create 400 jobs in return for $3.9 million in tax rebates so long as hiring and investment targets are met across a 12 year period. [^5] A year later in 2020, Well raised nearly $40 million in Series A (e.g. funding after initial seed money used for development and growth) type funding in form of debt (e.g. loans) and equity (e.g shareholder offerings). [^4] As of 2023, their latest funding for Series B occurred in 2022 raising $70 million to be used in additional expansion and technological advancement. [^6] Their continued success in achieving investor funding suggests the company is on track towards future profitability.  
+In 2019 the newly formed company, received $25 million seed funding from investors including from General Catalyst, John Doerr, Mosaic Health Solutions and Hellman & Friedman partners. [^4] They entered in agreement with North Carolina to build their headquarters in Chapel Hill, Orange County and create 400 jobs in return for $3.9 million in tax rebates so long as hiring and investment targets are met across a 12 year period. [^5] A year later in 2020, Well raised nearly $40 million in Series A (e.g. funding after initial seed money used for development and growth) type funding in form of debt (e.g. loans) and equity (e.g shareholder offerings). [^4] As of 2023, their latest funding for Series B occurred in 2022 raising $70 million to be used in additional expansion and technological advancement. [^6] Their continued success in achieving investor funding suggests the company is on track towards future profitability.  
 
 ## Business Activities
 
 Well wants to retool the healthcare industry from today's reactive, medical-condition or illness-focused approach towards a consumer first approach that incentivizing sustainable and holistic well-being across a lifetime. Well describes their objective as follows [^6]:
 
-> Our purpose is to improve health through compelling, frequent engagement. We work with users to build a relationship based on their individual health history, challenges and desires. With our AI Health Engine, clinically-driven content, and Well Guides, we offer a persistent presence in their lives that moves them step-by-step towards their own own \[sic\]  goals and overall health improvement. Ours is a high-touch, but low-pressure habit-forming approach that uses proven consumer engagement tactics and incentives to make members successful in advancing their health.
+> Our purpose is to improve health through compelling, frequent engagement. We work with users to build a relationship based on their individual health history, challenges and desires. With our AI Health Engine, clinically-driven content, and Well Guides, we offer a persistent presence in their lives that moves them step-by-step towards their own own \[sic\] goals and overall health improvement. Ours is a high-touch, but low-pressure habit-forming approach that uses proven consumer engagement tactics and incentives to make members successful in advancing their health.
 
-Ultimately, the company seeks to be a companion tool for a broad range of users across demographics and healthcare needs. In 2022, they reached 1000 members via obtaining corporate clients that provide the tool as an optional health care benefit to their employees as well as cultivating partnerships with community health organizations and directly-to-user consumer brands. [^6] Conspicuosly, Well has not prominently named any of their corporate clients or partnerships so far which does not inspire confidence in the company. 
+Ultimately, the company seeks to be a companion tool for a broad range of users across demographics and healthcare needs. In 2022, they reached 1000 members via obtaining corporate clients that provide the tool as an optional health care benefit to their employees and from cultivating partnerships with community health organizations and direct-to-user consumer brands. [^6] Conspiciuosly, Well has not prominently named any of their corporate clients or partnerships so far which does not inspire confidence however, they are still a young company with solid investment backing that is expected to grow. They have recently partnered with UNC-Chapel Hill and UNC Healthcare. [^12]
 
-Given that health in its various states is part of the human condition, the potential customer base for a healthcare engagement tool is significant though the problem Well intends to solve (e.g. reactive rather than ongoing proactive healthcare) is an American one; a side-effect of the healthcare industrial complex. The company's website mentions that there is a thriving marketplace attemping to address consumer experiences for more than 100 million people.[^6] Well operates outside of that marketplace however, given the nature of their tool, there are other factors that narrow the potential customer base. 
+Given the universal need for health and wellbeing, the customer base potential for a healthcare engagement tool is significant. Well is interested in motivating and empowering their users to engage in their health needs differently than what the American healthcare industry incentivizes (e.g. reactive illness treatment focus rather than ongoing proactive health management) and intends to be a driver for change. The Well company's website mentions that there is a thriving marketplace attemping to address consumer experiences for more than 100 million people.[^6] Despite this, there isn't yet competition in the niche Well is creating for itself which can be described as technological tools for incentivized lifelong health engagement. 
 
-The scope is limited to:
+ Being first gives them a window to grow a customer base without competition and obtain brand recognition for a niche area that may later morph into mass market appeal. Another strength for the company is their leadership, they are adept at obtaining funding which may not be possible for much smaller less networked entrepeneurs and startups. Well may be able to remain strongly competitive even if heavyweight corporations enter the marketplace so long as they continue on a path of growth, customer adoption, customer retention, and innovative tool development. 
 
-- American healtcare only;
-- technology saavy users; 
-- users that can afford the app and corresponding expenses (e.g. internet service, smartphone or machine, data plan, electricity, etc.); 
-- users that can afford to spend time on the tool;
-- users healthy enough to maintain ongoing engagement with the app;
-
-The tool may provide resources and guidelines for wellbeing however it does not address a key issue that would remain a roadblock towards attaining their vision \- affordability. This is an unsurmountable roadblock for many Americans even if they were powerusers of the application.
-
-Well's offering is geared towards changing the American marketplace rather than competing within it's context. Being first gives them a window to attract a signifcant amount of customers and promote their vision without combatting competition. Well's leadership is adept at obtaining funding which may not be possible for much smaller less networked entrepeneurs and startups. They may be able to remain strongly competitive even if heavyweight corporations with a deep well of money enter the marketplace if they can continue on a path of rapid customer adoption and tool development.
-
-The company's tool is powered by a proprietary algorithm that uses "clinical interventions and guided experiences data" to provides tailored healthcare support to their members. [^6] Based on their job roles qualification requirements for Software Engineers, Data Engineers and Senior Data Scientist [^7] that mention Python, Haskell programming language; data processing pipelines, and modern cloud platforms, their AI uses large language modeling, unsupervised learning, and deep learning.
+The company's tool, currently a downloadable health app called [Well Digital](https://play.google.com/store/apps/details?id=co.well.wellapp), is powered by a proprietary algorithm that uses "clinical interventions and guided experiences data" to provide tailored healthcare support to their members. [^6] Considering the company's employment requirements for Software Engineers, Data Engineers and Senior Data Scientist [^7] their tool uses Python, Haskell programming language; their AI must involve large language modeling, unsupervised learning, and deep learning and requires data processing pipelines, and modern cloud platforms.
 
 ## Landscape
 
-The healthcare industry is experiencing major tranformative innovation across many areas due to its mutualistic relationship with technological advancements such as AI, 3D printing, gene editing and virtual reality. [^8] While Well promotes lofty goals with its vision of change in the American healthcare approach; Well's tool could be categorized under telehealth and is closest aligned with virtual assistant technology given the caveat that Well's application focuses on lifelong preventative measures and incentivization.
+The healthcare industry is experiencing major tranformative innovation across many areas due to its mutualistic relationship with technological advancements such as AI, 3D printing, gene editing and virtual reality. [^8] While Well promotes admirable ideals with its vision of change in the American approach to healthcare; Well Digital could be broadly categorized under telehealth and is closest aligned with virtual assistant/conversational AI technology given the caveat that Well's application focuses on lifelong preventative measures and incentivizing sustained self-stewardship of healthcare needs.
 
-Recent major trends related to virtual assistance in healthcare are:
+AI powered chatbot technology is a recent major trend related to virtual assistance in healthcare. Chatbots are being used to interact and provide more accurate medical information to consumers thereby broadening health care access for people that may not otherwise be reachable due to location, medical illness, cost, or other factors.  [^9]
 
-- Chatbot technology being used to interact and provide more accurate medical information to patients thereby broadening health care access for patients that may not otherwise be reachable due to location, medical illness, cost, or other factors. [^9]
+![Chart from Engati depecting projected chatbot growth in the 2010's vs actual website growth in the 1990's](https://assets-global.website-files.com/5ef788f07804fb7d78a4127a/6082dfbc48e16b2492049ca2_wodvXP1qcbqUWQEn2jYThXFzKeWlf9NCZoVN81IK2RE4b-hdpdIOyDZFNOzvUPlvx_xEveCgMIGungaKo-0nv6WN7Ts_Dgi59XdxkvduM_wo78D6q05Bm_8XFjm8MWrFkMbV9L4O.png)
+The growth rate of chatbot tech is projected to accelerate in a similar manner as the growth of websites in the mid to late 1990's. [^10]
 
-![image source: [10 chatbot trends that will transform your business in 2023 | Engati](https://www.engati.com/blog/chatbot-industry-trends)](https://assets-global.website-files.com/5ef788f07804fb7d78a4127a/6082dfbc48e16b2492049ca2_wodvXP1qcbqUWQEn2jYThXFzKeWlf9NCZoVN81IK2RE4b-hdpdIOyDZFNOzvUPlvx_xEveCgMIGungaKo-0nv6WN7Ts_Dgi59XdxkvduM_wo78D6q05Bm_8XFjm8MWrFkMbV9L4O.png)
+Chatbots have evolved signficantly since its 20th century inception:
 
-- Continual advancement in AI natural language processing, data processing, and machine learning is prompting rapid improvement in information provided to patients and fuels the chatbot technology. It has improved communication and information discernment among healthcare practitioners for a more holistic big picture approach to care. [^9]
+- 1960 \- 2000: The first generation of chatbots such as ELIZA (1966) used decision trees and keyword recognition to supply answers
+- 2010 \- 2014: The next generation introduced natural language processing and machine learning to chatbots tech such as IBM Watson and Alexa
+- 2021 \- 2023: The current generation of AI is modeled on massive data sets and are the tech behind generative AI chatbots such as ChatGPT.
 
-Although unique in scope, Well's application shares commonalities and overlap with tools from other companies in the field working on a similar vein of virtual assistance technology. [Babylon Health](https://www.babylonhealth.com/en-us) is an early contender in evangelizing proactive healthcare.
+[View techtarget infographic for more details on the evolution of chatbots.](https://www.techtarget.com/searchcustomerexperience/infographic/The-evolution-of-chatbots-and-generative-AI/) 
 
+According to [Engati](https://www.engati.com/blog/chatbot-industry-trends), a company that has developed a conversational automation platform:
+> AI-powered conversational UX is the next big thing for enterprise businesses. "CUX is a newer version of UX design". And it’s expected to gain more significance in the next few years. Businesses are focusing on brand persona development, personalized content, and guided conversations to help users reach their goals faster. Overall, this helps keep up sales, search rankings, etc. 
 
-**LEFT OFF HERE**
-**LEFT OFF HERE**
+Continual advancement in AI natural language processing, data processing, and machine learning is prompting rapid improvement in information provided to patients and fuels the chatbot technology. Improved communication and information discernment among healthcare practitioners has increased for a more holistic big picture approach to care. [^9]
 
+Although unique in scope, Well Digital shares commonalities and overlap with tools from other companies in the field working in a similar vein of virtual assistance technology. 
 
-[Buoy Health: Check Symptoms & Find the Right Care](https://www.buoyhealth.com/)
-[AI-powered, Physician-led Virtual Healthcare | eMed UK (babylonhealth.com)](https://www.babylonhealth.com/en-us)
-[K Health: 24/7 Access to High-Quality Medicine](https://khealth.com/)
-[About Us (curaihealth.com)](https://www.curaihealth.com/about)
-[MFine: Consult Doctor Online | Book Lab Tests at Home](https://www.mfine.co/)
-[Notable | Intelligent Automation for Healthcare (notablehealth.com)](https://www.notablehealth.com/)
+- [Babylon Health](https://www.babylonhealth.com/en-us), now part of [eMed](https://www.emed.com/uk/about) was an early contender in evangelizing proactive healthcare through technology. Established in 2013, their vision was to provide accessible and affordable care on a global scale and they offer a digital-first AI powered platform for primary care and chronic healthcare management.
 
+- [Buoy](https://buoyhealth.com), founded in 2014, offers an AI that assists users with checking symptoms and connects them to vetted medical content. 
 
+- [Curai](https://curaihealth.com), started in 2017, offers a virtual care app for doctors and patients to directly interface. The company owns a proprietary AI and Machine Learning platform that is mining from state-of-the-art medical research data. [^11]
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-new, not much impact. at starting and expansion point. good funding
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-amount of members, multi-channels across more types of customers than competitors
-
-* How is your company performing relative to competitors in the same field?
-
-unclear yet
+Well Dot Inc.'s headquarters in Chapel Hill is influencing tech firms to establish a presence in the town.[^12] The next steps for the company will determine whether the startup proves a success. Currently, the company is experiencing rapid expansion and is well-funded for further growth and development. Its impact in healthcare technology remains to be seen. They have no direct contenders in this interesting new avenue for healthcare. Their vision adherence and use of AI may lead to further innovation and new offerings for the company and may in turn push healthcare equity forward for all Americans.  
 
 ## Recommendations
 
-Propriety AI limits the company's vision. Truly visionary re-imagining would be open AI algorithms for betterment of healthcare beyond typical corporate goal of profit above all else. 
+1. Explore accessibility driven AI. Introduce specialized voicebots and enhanced visualization that cater to different populations. In particular, the elderly population is projected to double by 2050.[^17] Today's tech-savvy younger consumers will be tomorrow's elderly. With aging comes cognitive changes, increasing mobility limitations, and unmet or hidden social needs that could potentially be met through AI powered assistance. For example, cognitive decline may make communicating a challenge. A dementia-friendly AI, could elicit healthcare related responses from the consumer by patiently posing spoken queries while providing visual cues that help the consumer understand the question or assists them in conveying their needs. The user may be able to respond verbally or by touching one of the images. 
+
+2. Join the research on early digital detection of dementia. Scientists from Regenstrief Institute, and two US medical schools; Indiana University and University of Miami, are exploring the use of algorithms to review electronic health records to determine if patients are showing signs of dementia. They called their algorithm a passive digital marker; Well Digital could potentially adapt or generate a similar algorithm that detects trends or markers for a variety of health conditions using data created from its interactions with the consumer. [^18] Providing this additional use case would further incentivize Well users to interact habitually with Well Digital as the algorithm will have more data to evaluate for any concerning trends. The additional functionality adds value by providing peace of mind that is attractive to consumers.
 
 
- - explore AI tools that cater to special needs or elderly (a consequential population that will continue to explode in size world wide.)
- - 
- - remote patient monitoring
- - 
- - get ahead of HIPPAA
-
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* 
- Simple interface, manageable to all given elder population, life-partner 
-life event prompts - user communicates major life event that occurred or may occur (child birth, cancer) gives trustworthy resources.
-
-Compatibility across current and outdate platforms to pull records and provide opt-in options to the consumer while protecting privacy and not violating HIPAA. A log of sorts that provides trends and recommendations on demand. Fail-safe flagging when recommending. Easier to obtain informed second opinion. Use AI to remove bias.
-
-* Why do you think that offering this product or service would benefit the company?
-
-I'm concerned Well's multi-vertical approach creates a reproducable jack-of-all trades and master of none effect that would make differentiation challenging when the market grows crowded with competitors. Currently leader by default as there is no current competition with similar offerings, I don't see what would differentiate them from future competitors outsie of being first. Algorithms, even propriety private ones, are likely possible to reverse-engineered given AI and rapidly developing technology.
-
-cheaper resources and technology. Particularly since algorithyms currently cannot be trademarked. Smaller competitors will rise that do not require significant scale to be competitive given the tools can be smart. Establish an ecosystem in where customers would prefer to remain within and community tools and connection
-
-* What technologies would this additional product or service utilize?
-AI to connect mental health and community and to protect the vulnerable. hybridization of practioner and AI empowered healthcare. 
-
-* Why are these technologies appropriate for your solution?
-
+3. Consider making Well's AI algorithm partly or fully open-sourced rather than proprietary. This would establish Well's reputation for corporate social responsibility (CSR) as it opens the field to others that may be able to use the algorithm for future technology. Perhaps, it may be used to help improve the state of American healthcare and beyond. Good CSR is good PR in that it aligns Well's business with their advocacy of health engagement for all. CSR companies benefit from increased press coverage and are able to attract talented employees and retain them. [^14] [^15] Well would also potentially gain a pool of talent that they could hire that already understand their technology. [^16]
 
 ## Footnotes
 
@@ -122,5 +82,23 @@ AI to connect mental health and community and to protect the vulnerable. hybridi
 [^7] https://boards.greenhouse.io/well
 
 [^8] [5 innovations that are revolutionizing global healthcare | World Economic Forum (weforum.org)](https://www.weforum.org/agenda/2023/02/health-future-innovation-technology/)
+
 [^9] [Sustainability | Free Full-Text | A Review on Innovation in Healthcare Sector (Telehealth) through Artificial Intelligence (mdpi.com)](https://www.mdpi.com/2071-1050/15/8/6655)
 
+[^10] [10 chatbot trends that will transform your business in 2023 | Engati](https://www.engati.com/blog/chatbot-industry-trends)
+
+[^11] https://www.curaihealth.com/about
+
+[^12] https://chapelhilleconomicdevelopment.org/news/healthcare-it-firm-leads-charge-as-growing-number-of-startups-pick-chapel-hill-for-hq
+
+[^13] [Chatbots: The Great Evolution To Conversational AI (forbes.com)](https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/?sh=68f2d854d0e3)
+
+[^14] [What Are the Top Seven Benefits of Having a Corporate Social Responsibility Program? (benevity.com)](https://benevity.com/resources/corporate-social-responsibility-benefits)
+
+[^15] [The Importance of Social Responsibility for Businesses (investopedia.com)](https://www.investopedia.com/ask/answers/041015/why-social-responsibility-important-business.asp)
+
+[^16] [17 Industry Leaders Share Pros And Cons Of Tapping Into Open-Source Code (forbes.com)](https://www.forbes.com/sites/forbestechcouncil/2021/08/06/17-industry-leaders-share-pros-and-cons-of-tapping-into-open-source-code/?sh=678f1e193de3)
+
+[^17] [Ageing and health (who.int)](https://www.who.int/news-room/fact-sheets/detail/ageing-and-health)
+
+[^18] [Digital detection of dementia: Using AI to identify undiagnosed dementia | ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221221090624.htm)
